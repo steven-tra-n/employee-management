@@ -1,0 +1,14 @@
+C:\Users\stran\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.deps.json
+C:\Users\stran\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.runtimeconfig.json
+C:\Users\stran\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.runtimeconfig.dev.json
+C:\Users\stran\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.dll
+C:\Users\stran\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.pdb
+C:\Users\stran\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.csprojAssemblyReference.cache
+C:\Users\stran\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\stran\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.RazorAssemblyInfo.cache
+C:\Users\stran\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.RazorAssemblyInfo.cs
+C:\Users\stran\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\stran\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.AssemblyInfo.cs
+C:\Users\stran\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.RazorTargetAssemblyInfo.cache
+C:\Users\stran\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.dll
+C:\Users\stran\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.pdb
